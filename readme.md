@@ -1,4 +1,13 @@
  - What is docker?
+     - The difficulties of development and deployment
+     - Heroku
+     - VMs and containers
+     - What is a container
+     - Building
+     - Docker files and building
+     - Docker hub, caching and build niceties 
  - Docker for development
+     - Rails
  - Docker on remote machines
  - Docker in production
+     - k8s
